@@ -99,3 +99,10 @@ body {
   box-shadow: 0 0 0 4px rgba(41, 214, 200, 0.18),
     0 0 22px rgba(41, 214, 200, 0.55);
 }
+
+/* Capture specific tweaks */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
